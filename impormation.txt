@@ -1,0 +1,13 @@
+ebookwise.com/wp-admin
+user: fiverrdev
+pw: V8KhGleoLw*6Xi#4ve4&0g9R
+
+example https://ebookwise.com/product/surrounded-by-idiots/
+
+if you click additional information you can see the extra attributes I added, 
+I made them based on the common info on amazon listings,
+not every amazon listing shows every attribute
+but mostly they show them from ones I checked.
+
+
+https://woo.com/document/woocommerce-rest-api/

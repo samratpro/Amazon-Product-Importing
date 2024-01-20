@@ -1,0 +1,16 @@
+Website name          :   https://website.com/  (follow same format)
+User Name             :   WordPress Login Username
+Application Password  :   Wordpress Dashboard
+                             > Users
+                             > Profile
+                             > scroll down
+                             > Application Passwords 
+                             > input anything there as name 
+                             > Click on (Add New Application Password)
+			     > Copy Token 
+			     > Example Screenshot : https://prnt.sc/yJ-vF3xiAuJi
+Category              :   Input Category Name (If category is exist, system will select that, otherwise create new one)
+Post Status           :   draft or publish (select one before making post run)
+
+
+*********************** After inputting any data Must be click on "Save" Button ***********************
